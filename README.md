@@ -11,7 +11,7 @@
 
 - ✅ **Search Recipes** – Find recipes by entering dish names or ingredients.  
 - ✅ **Recipe Details** – View full instructions, ingredients, and images for each recipe.  
-- ✅ **Favorite List** – Add/remove recipes to a favorites section, stored in **localStorage**.  
+- ✅ **Favorite List** – Add/remove recipes to a favorites section.
 - ✅ **React Router Navigation** –  
   - **Home Page**: Search and browse recipes.  
   - **Recipe Details Page**: Displays complete recipe information.  
@@ -28,7 +28,7 @@
 - **React.js** – Frontend framework  
 - **React Router** – Handles page navigation  
 - **Axios / Fetch API** – Fetches recipe data  
-- **TheMealDB API / Edamam API** – Recipe data source  
+- **TheMealDB API **– Recipe data source  
 - **LocalStorage** – Saves favorite recipes  
 - **Tailwind CSS** – Responsive styling  
 
