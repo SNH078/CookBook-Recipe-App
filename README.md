@@ -15,7 +15,9 @@ Dish Delight is a responsive React.js web application that allows users to searc
 ✅ React Router Navigation –
 
 Home Page: Search and browse recipes.
+
 Recipe Details Page: Displays complete recipe information.
+
 Favorites Page: Lists all saved favorite recipes.
 
 ✅ API Integration – Fetches live recipe data from TheMealDB API 
@@ -47,5 +49,5 @@ View Details: Click on a recipe to see ingredients, instructions, and images.
 
 Save Favorites: Click on the save as favorites to save recipes for later.
 
-🤝 Contribution
+🤝
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
