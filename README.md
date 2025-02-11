@@ -1,4 +1,4 @@
-🍽️ Recipe Finder App  - Dish Delight✨
+🍽️ Recipe Finder App  -- Dish Delight✨
 
 ![image](https://github.com/user-attachments/assets/ff6e33d8-0af5-40a8-be17-99c786f53b94)
 
