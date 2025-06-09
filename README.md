@@ -29,7 +29,6 @@
 - **React Router** – Handles page navigation  
 - **Axios / Fetch API** – Fetches recipe data  
 - **TheMealDB API **– Recipe data source  
-- **LocalStorage** – Saves favorite recipes  
 - **Tailwind CSS** – Responsive styling  
 
 ---
