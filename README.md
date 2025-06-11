@@ -32,6 +32,15 @@
 - **Tailwind CSS** – Responsive styling  
 
 ---
+ ## Project Setup
+ ```
+npm create vite@latest
+cd 'folder_name'
+npm i
+Tailwind setup (vite)
+npm install react-router-dom
+
+```
 
 ## 📌 Usage  
 
