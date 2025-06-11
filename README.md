@@ -29,7 +29,7 @@
 ![image](https://github.com/user-attachments/assets/fabab759-8f1f-4c24-8de4-9bced6f7fd5e)
 
 ![image](https://github.com/user-attachments/assets/adb9a91a-937b-489c-930d-725acb79b47d)
-![image](https://github.com/user-attachments/assets/1b6b8186-4b35-4b14-8d2a-2144bd3d035f)
+![image](https://github.com/user-attachments/assets/6e921f84-0011-4b9f-865e-ce8ea070be62)
 
 
 ## 🛠️ Tech Stack  
