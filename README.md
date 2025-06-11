@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b117391a-497c-445d-8343-a7a557c5da5c)
+
 # 🍽️ Recipe Finder App - Dish Delight ✨  
 
 ![image](https://github.com/user-attachments/assets/67b71211-0426-4916-b5b4-b16d9427e431)
