@@ -39,7 +39,7 @@ cd 'folder_name'
 npm i
 Tailwind setup (vite)
 npm install react-router-dom
-
+npm run dev
 ```
 
 ## 📌 Usage  
