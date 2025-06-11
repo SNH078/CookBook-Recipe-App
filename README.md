@@ -24,6 +24,8 @@
 
 ---
 ## HAVE A GLANCE :)
+![image](https://github.com/user-attachments/assets/94098f51-754b-4cd2-8e54-7a533a265b34)
+------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/de26b0b8-a993-4f6f-91d0-31e643d5e59a)
 
 ![image](https://github.com/user-attachments/assets/fabab759-8f1f-4c24-8de4-9bced6f7fd5e)
