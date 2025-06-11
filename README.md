@@ -1,7 +1,8 @@
 
 # 🍽️ Recipe Finder App - Dish Delight ✨  
 
-![Dish Delight](https://github.com/user-attachments/assets/ff6e33d8-0af5-40a8-be17-99c786f53b94)  
+![image](https://github.com/user-attachments/assets/67b71211-0426-4916-b5b4-b16d9427e431)
+
 
 **Dish Delight** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
 
@@ -22,6 +23,15 @@
 - ✅ **Loading & Error Handling** – Displays a loader while fetching data and handles API errors.  
 
 ---
+## HAVE A GLANCE :)
+![image](https://github.com/user-attachments/assets/de26b0b8-a993-4f6f-91d0-31e643d5e59a)
+
+![image](https://github.com/user-attachments/assets/fabab759-8f1f-4c24-8de4-9bced6f7fd5e)
+
+![image](https://github.com/user-attachments/assets/adb9a91a-937b-489c-930d-725acb79b47d)
+![Uploading image.png…]()
+
+
 
 ## 🛠️ Tech Stack  
 
