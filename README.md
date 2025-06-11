@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/b117391a-497c-445d-8343-a7a557c5da5c)
 # 🍽️ Recipe Finder App - Dish Delight ✨  
 
 ![image](https://github.com/user-attachments/assets/67b71211-0426-4916-b5b4-b16d9427e431)
@@ -29,8 +29,7 @@
 ![image](https://github.com/user-attachments/assets/fabab759-8f1f-4c24-8de4-9bced6f7fd5e)
 
 ![image](https://github.com/user-attachments/assets/adb9a91a-937b-489c-930d-725acb79b47d)
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/1b6b8186-4b35-4b14-8d2a-2144bd3d035f)
 
 
 ## 🛠️ Tech Stack  
