@@ -1,0 +1,55 @@
+import { useContext } from "react";
+import { NavLink } from "react-router-dom";
+import { GlobalContext } from "../../context";
+
+export default function Navbar() {
+  const { searchParam, setSearchParam , handleSubmit } = useContext(GlobalContext);
+
+  console.log(searchParam);
+
+  return (
+
+  <nav className="bg-gradient-to-r from-yellow-100 via-pink-100 to-purple-100 text-gray-800 shadow-md p-4 rounded-xl" >
+    <div className="container mx-auto flex justify-between items-center flex-col lg:flex-row gap-5 lg:gap-0">
+      
+      <div className="flex items-center justify-start gap-6 p-4">
+        <h1 className="text-3xl font-semibold text-black font-serif italic">
+          <NavLink to={"/"}>DishDelight✨</NavLink>
+        </h1>
+
+        <form onSubmit={handleSubmit}>
+          <input
+            type="text"
+            name="search"
+            value={searchParam}
+            onChange={(event) => setSearchParam(event.target.value)}
+            placeholder="Enter Items..."
+            className="bg-white/75 p-3 px-8 rounded-full outline-none lg:w-96 shadow-lg shadow-red-200 focus:shadow-red-200"
+          />
+        </form>
+      </div>
+
+      <ul className="flex gap-5">
+        <li>
+          <NavLink
+            to={"/"}
+            className="text-black hover:text-gray-700 duration-300 text-xl" 
+          >
+            Home
+          </NavLink>
+        </li>
+        <li>
+          <NavLink
+            to={"/favorites"}
+            className="text-black hover:text-gray-700 duration-300 text-xl m-5"
+          >
+            Favorites
+          </NavLink>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+  );
+}
