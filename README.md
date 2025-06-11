@@ -6,6 +6,11 @@
 
 **Dish Delight** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
 
+```
+Download
+npm i
+npm run dev
+```
 ---
 
 ## 🚀 Features  
