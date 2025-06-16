@@ -1,14 +1,15 @@
 
-# 🍽️ Recipe Finder App - Dish Delight ✨  
+# 🍽️ Recipe Finder App - CookBook
 
 ![image](https://github.com/user-attachments/assets/67b71211-0426-4916-b5b4-b16d9427e431)
 
 
-**Dish Delight** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
+**CookBookt** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
 
 ```
 Download
 npm i
+npm i react-icons
 npm run dev
 ```
 ---
@@ -31,12 +32,15 @@ npm run dev
 ## HAVE A GLANCE :)
 ![image](https://github.com/user-attachments/assets/94098f51-754b-4cd2-8e54-7a533a265b34)
 ------------------------------------------------------------------------------------
-![image](https://github.com/user-attachments/assets/de26b0b8-a993-4f6f-91d0-31e643d5e59a)
+![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
 
-![image](https://github.com/user-attachments/assets/fabab759-8f1f-4c24-8de4-9bced6f7fd5e)
 
-![image](https://github.com/user-attachments/assets/adb9a91a-937b-489c-930d-725acb79b47d)
-![image](https://github.com/user-attachments/assets/6e921f84-0011-4b9f-865e-ce8ea070be62)
+![image](https://github.com/user-attachments/assets/aeb1b3bc-19fa-4417-9ce9-e986e015da84)
+
+![image](https://github.com/user-attachments/assets/a239b432-e212-46a4-9841-3a4cec687326)
+![image](https://github.com/user-attachments/assets/059910ee-d959-455a-b8ac-1bd58142352b)
+![image](https://github.com/user-attachments/assets/64e413e1-d267-462a-a171-67dd031db764)
+
 
 
 ## 🛠️ Tech Stack  
