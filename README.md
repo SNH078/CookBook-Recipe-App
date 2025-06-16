@@ -1,8 +1,7 @@
 
 # 🍽️ Recipe Finder App - CookBook
 
-![image](https://github.com/user-attachments/assets/67b71211-0426-4916-b5b4-b16d9427e431)
-
+![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
 
 **CookBookt** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
 
