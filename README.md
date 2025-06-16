@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/c7f67cdb-4322-494e-8643-49152a4d5485)![image](https://github.com/user-attachments/assets/c7f67cdb-4322-494e-8643-49152a4d5485)
 # 🍽️ Recipe Finder App - CookBook
 
 ![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
@@ -30,6 +30,11 @@ npm run dev
 --------------------------------------------------------------------------------
 ## HAVE A GLANCE :)
 ![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
+
+![image](https://github.com/user-attachments/assets/6e4bef51-3055-472d-90f6-ea576b82ea70)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/a239b432-e212-46a4-9841-3a4cec687326)
 ![image](https://github.com/user-attachments/assets/059910ee-d959-455a-b8ac-1bd58142352b)
