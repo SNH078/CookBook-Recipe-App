@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/c7f67cdb-4322-494e-8643-49152a4d5485)![image](https://github.com/user-attachments/assets/c7f67cdb-4322-494e-8643-49152a4d5485)
 # 🍽️ Recipe Finder App - CookBook
 
 ![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
