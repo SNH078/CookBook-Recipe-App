@@ -27,11 +27,8 @@ npm run dev
 - ✅ **Tailwind CSS Styling** – Modern and user-friendly UI with smooth interactions.  
 - ✅ **Loading & Error Handling** – Displays a loader while fetching data and handles API errors.  
 
----
+--------------------------------------------------------------------------------
 ## HAVE A GLANCE :)
-![image](https://github.com/user-attachments/assets/94098f51-754b-4cd2-8e54-7a533a265b34)
-------------------------------------------------------------------------------------
-
 ![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
 
 ![image](https://github.com/user-attachments/assets/a239b432-e212-46a4-9841-3a4cec687326)
