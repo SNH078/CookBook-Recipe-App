@@ -6,11 +6,11 @@ export default function Favorites() {
   const { favoritesList } = useContext(GlobalContext);
 
   return (
-    <div className="py-8 container mx-auto flex flex-col items-center gap-10">
+    <div className=" container py-2 flex flex-col items-center gap-5">
       {favoritesList && favoritesList.length > 0 ? (
         <>
-          <h1 className="text-3xl font-bold text-pink-600 ">
-            Favorites 
+          <h1 className="text-3xl font-bold text-pink-600 text-center m-0">
+            <img alt='Favorites' width="100px" src='\Asset\clipboard.ico' />
           </h1>
           <div className="flex flex-wrap justify-center gap-10">
             {favoritesList.map((item) => (
@@ -26,3 +26,4 @@ export default function Favorites() {
     </div>
   );
 }
+
