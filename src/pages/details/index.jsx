@@ -49,7 +49,7 @@ export default function Details() {
         <div>
           <button
             onClick={() => handleAddToFavorite(recipeDetailsData?.recipe)}
-            className="p-3 px-8 rounded-lg text-sm uppercase font-medium tracking-wider mt-3 inline-block shadow-md bg-black text-white"
+            className="min-w-full p-3 px-8 rounded-lg text-sm uppercase font-medium tracking-wider mt-3 inline-block shadow-md bg-black text-white hover:bg-gray-300  hover:text-black active:-translate-y-px"
           >
             {favoritesList && favoritesList.length > 0 && favoritesList.findIndex(
               (item) => item.id === recipeDetailsData?.recipe?.id
@@ -59,16 +59,16 @@ export default function Details() {
           </button>
         </div>
         <div>
-          <span className="text-2xl font-semibold text-black">
+          <span className="text-2xl underline font-semibold text-black">
             Ingredients:
           </span>
-          <ul className="flex flex-col gap-3">
+          <ul className="flex flex-col gap-1">
             {recipeDetailsData?.recipe?.ingredients.map((ingredient) => (
               <li>
-                <span className="text-2xl font-semibold text-black">
+                <span className="text-md font-semibold text-black">
                   {ingredient.quantity} {ingredient.unit}
                 </span>
-                <span className="text-2xl font-semibold text-black">
+                <span className="text-md  font-semibold text-black">
                   {ingredient.description}
                 </span>
               </li>
