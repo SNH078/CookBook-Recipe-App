@@ -45,7 +45,7 @@ npm run dev
 
 - **React.js** – Frontend framework  
 - **React Router** – Handles page navigation  
-- ** Fetch API** – Fetches recipe data  
+- **Fetch API** – Fetches recipe data  
 -  **TheMealDB API**– Recipe data source  
 - **Tailwind CSS** – Responsive styling  
 - **React-icons** & **Google-Fonts**
