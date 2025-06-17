@@ -4,8 +4,8 @@
 
 **CookBookt** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes, and **localStorage** to store favorite recipes.  
 
+Clone it -> run this on terminal-:
 ```
-
 npm i
 npm i react-icons
 npm run dev
