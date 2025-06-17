@@ -38,7 +38,7 @@ const Footer = () => {
           <h4 className="font-semibold mb-2">Get in Touch</h4>
           <div className="flex justify-center md:justify-start gap-4 text-xl mb-2">
             <a
-              href="https://www.youtube.com/@YourChannelName"
+                  href="https://www.youtube.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-red-600"
