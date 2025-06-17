@@ -28,9 +28,10 @@ npm run dev
 
 --------------------------------------------------------------------------------
 ## HAVE A GLANCE :)
-![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
+
 ![image](https://github.com/user-attachments/assets/7a1f1213-103d-40a1-b9e0-7859494c4133)
 
+![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
 ![image](https://github.com/user-attachments/assets/39dcd223-9755-48ed-808b-e763bcd0545c)
 
 ![image](https://github.com/user-attachments/assets/8e55e991-5e7f-4cfb-a2c3-946284553504)
