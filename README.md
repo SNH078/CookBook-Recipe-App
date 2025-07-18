@@ -38,10 +38,7 @@ npm run dev
 
 ![image](https://github.com/user-attachments/assets/8e55e991-5e7f-4cfb-a2c3-946284553504)
 
-![image](https://github.com/user-attachments/assets/48bc873e-66a4-4985-ba3e-39ac79734f54)
-
-
-
+<img width="1916" height="1007" alt="image" src="https://github.com/user-attachments/assets/bf20afcc-b12f-412a-860e-d9e8b44a2bbd" />
 
 ## 🛠️ Tech Stack  
 
