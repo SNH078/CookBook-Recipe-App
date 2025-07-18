@@ -12,12 +12,23 @@ export default function Home() {
       {recipeList && recipeList.length > 0 ? (
         recipeList.map((item) => <RecipeItem item={item} />)
       ) : (
-        <div>
-          <p className="lg:text-4xl text-xl text-center text-pink-400 font-extrabold">
-            Nothing to show. Please search something
-          </p>
-        </div>
+       <div className="flex flex-col items-center justify-center text-center mt-5 space-y-6">
+<p className="text-xl text-center text-gray-600">
+  Start your food journey by <span className="text-pink-500 font-semibold">searching something tasty</span>! 🍲
+</p>
+
+
+  <button
+    className="bg-pink-300 text-grey px-4 py-2 rounded-lg hover:bg-pink-500 transition"
+   onClick={() => alert("Let’s get cooking! Try searching for 'Paneer' or 'Pasta' 🍲")}
+
+  >
+    Show Me Something Good
+  </button>
+</div>
+
       )}
     </div>
   );
 }
+
