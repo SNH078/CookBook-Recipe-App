@@ -29,7 +29,9 @@ npm run dev
 --------------------------------------------------------------------------------
 ## HAVE A GLANCE :)
 
-![image](https://github.com/user-attachments/assets/7a1f1213-103d-40a1-b9e0-7859494c4133)
+<img width="1906" height="1018" alt="image" src="https://github.com/user-attachments/assets/d2e898ce-fa94-4edb-9dc1-bd2c57e8cfbb" />
+
+<img width="876" height="525" alt="image" src="https://github.com/user-attachments/assets/c0f9b43d-980e-429c-b2dc-509a510ecab4" />
 
 ![image](https://github.com/user-attachments/assets/0ec5db8a-bb00-4970-aec5-1962aed9bb62)
 ![image](https://github.com/user-attachments/assets/39dcd223-9755-48ed-808b-e763bcd0545c)
