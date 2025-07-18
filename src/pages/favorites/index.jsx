@@ -10,7 +10,7 @@ export default function Favorites() {
       {favoritesList && favoritesList.length > 0 ? (
         <>
           <h1 className="text-3xl font-bold text-pink-600 text-center m-0">
-            <img alt='Favorites' width="100px" src='Assets\clipboard.ico' />
+                 <img alt='Favorites' width="100px" src="/Assets/clipboard.ico" />
           </h1>
           <div className="flex flex-wrap justify-center gap-10">
             {favoritesList.map((item) => (
