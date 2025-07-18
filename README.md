@@ -50,7 +50,7 @@ npm run dev
 - **Tailwind CSS** – Responsive styling  
 - **React-icons** & **Google-Fonts**
 ---
- ## Project Setup
+ ## Project Setup (from scratch)
  ```
 npm create vite@latest
 cd 'folder_name'
