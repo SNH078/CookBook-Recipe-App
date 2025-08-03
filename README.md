@@ -4,6 +4,10 @@
 
 **CookBook** is a **responsive React.js web application** that allows users to search for recipes, view detailed instructions, and save their favorite dishes. It uses **React Router** for navigation, **TheMealDB API** for fetching recipes . 
 
+------------------
+
+<img width="1067" height="651" alt="image" src="https://github.com/user-attachments/assets/b66dda35-09e0-48bf-96ca-83b34bdb854a" />
+
 Clone it -> run this on terminal-:
 ```
 npm i
