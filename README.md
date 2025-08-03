@@ -8,6 +8,10 @@
 
 <img width="1067" height="651" alt="image" src="https://github.com/user-attachments/assets/b66dda35-09e0-48bf-96ca-83b34bdb854a" />
 
+----------
+
+<img width="1320" height="599" alt="image" src="https://github.com/user-attachments/assets/8abb6643-d468-4d60-aa84-be785a107629" />
+
 Clone it -> run this on terminal-:
 ```
 npm i
